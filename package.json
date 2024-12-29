@@ -1,5 +1,5 @@
 {
-  "name": "createjs-ts",
+  "name": "createjs-ts-ascainiao",
   "version": "1.0.7",
   "description": "createjs of typescript",
   "main": "createjs-1.0.1.min",
@@ -12,10 +12,10 @@
     "preloadjs",
     "animate"
   ],
-  "author": "ajex",
+  "author": "panjunqiao",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajex-china/createjs-ts.git"
+    "url": "git+https://github.com/panjunqiao/createjs-ts-ascainiao.git"
   }
 }
