@@ -1,6 +1,6 @@
 {
   "name": "createjs-ts-ascainiao",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "createjs of typescript",
   "main": "createjs-1.0.1.min",
   "types": "index.d.ts",
